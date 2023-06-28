@@ -1,7 +1,7 @@
 # Space_invaders
 
 Space Invaders is a classic arcade game where the player controls a spaceship and must destroy the alien invaders that are gradually descending towards him.
-[![Space Invaders Gameplay](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+![Space Invaders Gameplay](images/space_invaders_gameplay.gif)
 ## Installation
 
 Make sure you have Python installed on your system. This project has been tested with Python 3.11.
