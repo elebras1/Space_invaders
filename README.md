@@ -23,3 +23,12 @@ Make sure you have Python installed on your system. This project has been tested
 - Press spacebar to fire projectiles.
 
 ## Rule
+- Destroy the 50 aliens before they invade
+- Destroying an alien gives 100 points
+- The maximum score is 5000 points
+
+## Licence
+
+This project is licensed under the MIT license.
+
+
