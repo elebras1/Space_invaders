@@ -1,3 +1,5 @@
+[![Langage](https://img.shields.io/badge/Langage-Python-blue.svg)](https://www.python.org/)
+[![Libraries](https://img.shields.io/badge/Libraries-Tkinter-yellow.svg)]([https://www.pygame.org/](https://docs.python.org/fr/3/library/tkinter.html))
 # Space_invaders
 
 Space Invaders is a classic arcade game where the player controls a spaceship and must destroy the alien invaders that are gradually descending towards him.
